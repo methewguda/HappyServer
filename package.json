@@ -1,0 +1,16 @@
+{
+  "name": "HappyServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Methew Guda",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "hapi": "^13.4.1",
+    "vision": "^4.1.0"
+  }
+}
